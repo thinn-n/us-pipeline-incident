@@ -2,7 +2,7 @@
 
 An interactive, multi-page atlas of four decades of United States pipeline incidents — oil spills, gas leaks, transmission ruptures and LNG events — built from official regulator data.
 
-**Live site:** https://ollielie.github.io/pipeline-incident-atlas/
+**Live site:** https://thinn-n.github.io/us-pipeline-incident/
 
 ## What it shows
 
